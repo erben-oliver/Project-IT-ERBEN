@@ -1,0 +1,15 @@
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/bin/Debug/net6.0/simple-neural-network-console-app
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/bin/Debug/net6.0/simple-neural-network-console-app.deps.json
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/bin/Debug/net6.0/simple-neural-network-console-app.runtimeconfig.json
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/bin/Debug/net6.0/simple-neural-network-console-app.dll
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/bin/Debug/net6.0/simple-neural-network-console-app.pdb
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.csproj.AssemblyReference.cache
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.AssemblyInfoInputs.cache
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.AssemblyInfo.cs
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.csproj.CoreCompileInputs.cache
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.dll
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/refint/simple-neural-network-console-app.dll
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.pdb
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/simple-neural-network-console-app.genruntimeconfig.cache
+/Users/erbenoliver/Downloads/simple-neural-network-console-app/obj/Debug/net6.0/ref/simple-neural-network-console-app.dll
