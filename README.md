@@ -35,6 +35,9 @@ All recourses avaiable on CODA
 - Project Proposal
 - Project Prototype
 
+# Workings
+If the program has worked you should see the number of predictions and the prediction number, which is given from Neural Network
+
 # Contributions
 Erben, Oliver 
 Based on The Medium
